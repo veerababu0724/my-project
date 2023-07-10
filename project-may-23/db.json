@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "tutorial": [
+    {
+      "id": 1,
+      "title": "",
+      "description": "",
+      "published": false
+    },
+    {
+      "title": "veerababu",
+      "description": "mummidisetti",
+      "id": 2
+    },
+    {
+      "title": "sainishanth",
+      "description": "ravala",
+      "id": 3
+    },
+    {
+      "title": "ramana",
+      "description": "aripaka",
+      "id": 4,
+      "published": true
+    },
+    {
+      "title": "naveen",
+      "description": "confussion",
+      "id": 5
+    },
+    {
+      "title": "new ",
+      "description": "new d",
+      "id": 6
+    }
+  ]
+}
